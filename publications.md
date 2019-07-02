@@ -26,3 +26,11 @@ My Erdős number is 3.
 
 **A Preview to Adenita: Visualization and Modeling of DNA Nanostructures.** Elisa De Llano, _Haichao Miao_, Tobias Isenberg, Meister Eduard Gröller, Ivan Viola, Ivan Barisic. Poster shown at the 3rd Functional DNA Nanotechnology Workshop. June 6 – 8, 2018.
 
+## Invited Talks
+**Visualization and Modeling of DNA Nanostructures**, September 18th 2018, 1st DNA Engineering Workshop 2018, Plitvice Lakes, Croatia.
+
+**Visual Abstraction and Modeling in DNA Nanotechnology**, December 14th 2017, King Abdullah University of Science and Technology, Saudi Arabia.
+
+**Visualization and Modeling in DNA Nanotechnology**, April 2017, Inria, Grenoble, France.
+Visualization of Brain Arteries, the Placenta and DNA Nanostructures in the Context of Abstraction, April 2017, State Key Lab - Zhejiang University, China.
+
