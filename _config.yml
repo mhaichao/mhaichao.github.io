@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Haichao Miao's personal website
+title: Haichao Miao
 email: haichao.miao1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a personal website of my research activities. 
+  This is a personal website for my research activities. 
 baseurl: "/mhaichao.github.io" # the subpath of your site, e.g. /blog
 # url: "http://wildflame.me" # the base hostname & protocol for your site
 # twitter_username:  
