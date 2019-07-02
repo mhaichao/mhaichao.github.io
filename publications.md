@@ -14,7 +14,8 @@ _Haichao Miao_, Elisa De Llano, Johannes Sorger, Yasaman Ahmadi, Tadija Kekic, T
 **Multiscale Molecular Visualization.** _Haichao Miao_, Tobias Klein, David Kouril, Peter Mindek, Karsten Schatz, Meister Eduard Gröller, Barbora Kozlikova, Tobias Isenberg, Ivan Viola. Journal of Molecular Biology, ISSN 0022-2836, 2018.
 
 **Placenta Maps: In Utero Placental Health Assessment of the Human Fetus.** _Haichao Miao_, Gabriel Mistelbauer, Alexey Karimov, Amir Alansary, Alice Davidson, David F.A. Lloyd, Mellisa Damodaram, Lisa Story, Jana Hutter, Joseph V. Hajnal, Mary Rutherford, Bernhard Preim, Bernhard Kainz, Meister Eduard Gröller. IEEE Transactions on Visualization and Computer Graphics, 23(6), 1612-1623, 2017.
-Visual Quantification of the Circle of Willis: An Automated Identification and Standardized Representation. Haichao Miao, Gabriel Mistelbauer, Christian Nasel, Meister Eduard Gröller. Computer Graphics Forum, 36(6), 393-404, 2017.
+
+**Visual Quantification of the Circle of Willis: An Automated Identification and Standardized Representation.** _Haichao Miao_, Gabriel Mistelbauer, Christian Nasel, Meister Eduard Gröller. Computer Graphics Forum, 36(6), 393-404, 2017.
 
 **CoWRadar: Visual Quantification of the Circle of Willis in Stroke Patients.** _Haichao Miao_, Gabriel Mistelbauer, Christian Nasel, Meister Eduard Gröller. In Eurographics Workshop on Visual Computing for Biology and Medicine, 1-10, 2015.
 
