@@ -33,5 +33,6 @@ My Erdős number is 3.
 **Visual Abstraction and Modeling in DNA Nanotechnology**, December 14th 2017, King Abdullah University of Science and Technology, Saudi Arabia.
 
 **Visualization and Modeling in DNA Nanotechnology**, April 2017, Inria, Grenoble, France.
-Visualization of Brain Arteries, the Placenta and DNA Nanostructures in the Context of Abstraction, April 2017, State Key Lab - Zhejiang University, China.
+
+**Visualization of Brain Arteries, the Placenta and DNA Nanostructures in the Context of Abstraction**, April 2017, State Key Lab - Zhejiang University, China.
 
