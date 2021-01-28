@@ -6,6 +6,14 @@ permalink: /publications/
 
 ## Journal and peer-reviewed conference publications
 
+**Adenita: Interactive 3D modeling and visualization of DNA Nanostructures.** Elisa de Llano, _Haichao Miao_, Yasaman Ahmadi, Amanda J. Wilson, Morgan Beeby, Ivan Viola, Ivan Barisic. Nucleic Acids Research, 48(15), 2020.
+
+**ScaleTrotter: Illustrative Visual Travels Across Negative Scales.** Sarkis Halladjian, _Haichao Miao_, David Kouřil, Meister Eduard Gröller, Ivan Viola, Tobias Isenberg. IEEE Transactions on Visualization and Computer Graphics, 26(1), 2020.
+
+**Interactive Exploded Views for Molecular Structures.** Maximillian Sbardellati, _Haichao Miao_, Hsiang-Yun Wu, Meister Eduard Gröller, Ivan Barisic, Ivan Viola. In Proceedings of the 9th Eurographics Workshop on Visual Computing for Biology and Medicine. September 2019.
+
+**Multiscale Molecular Visualization.** _Haichao Miao_, Tobias Klein, David Kouril, Peter Mindek, Karsten Schatz, Meister Eduard Gröller, Barbora Kozlikova, Tobias Isenberg, Ivan Viola. Journal of Molecular Biology, ISSN 0022-2836, 2018.
+
 **DimSUM: Dimension and Scale Unifying Maps for Visual Abstraction of DNA Origami Structures.** _Haichao Miao_, Elisa De Llano, Tobias Isenberg, Meister Eduard Gröller, Ivan Barisic, Ivan Viola. Computer Graphics Forum, 37(3), 2018.
 
 **Multiscale Visualization and Scale-adaptive Modification of DNA Nanostructures.**
